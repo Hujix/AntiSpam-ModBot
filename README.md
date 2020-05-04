@@ -43,10 +43,32 @@ And you good to go. Write in the terminal/console **node index.js**
 
 Than the bot should pup up with online.
 
+# AntiSpam Options
+The default antispam options are.
+```
+  warnThreshold: 3,
+	kickThreshold: 7,
+	banThreshold: 7,
+	muteThreshold: 5, 
+	maxInterval: 2000, 
+	warnMessage: '{@user}, Please stop spamming.', 
+	kickMessage: '**{user_tag}** has been kicked for spamming.',
+	banMessage: '**{user_tag}** has been banned for spamming.',
+	muteMessage: '**{user_tag}** has been muted for spamming.',
+	maxDuplicatesWarning: 7,
+	maxDuplicatesKick: 10,
+	maxDuplicatesBan: 12,
+	maxDuplicatesMute: 9,
+	exemptPermissions: [ 'ADMINISTRATOR'],
+	ignoreBots: true,
+	verbose: true,
+	ignoredUsers: [],
+```
+You can always change it. More information about the options and more! (https://discord-anti-spam.js.org/)
+
+Help needed. Join the support server below
+
 # Any Help
 You can open up any pull requests, issues and that sort of things.
 
 But you can always join the support discord server of the discord-anti-spam module. (https://discord.gg/AuP2tCH)
-
-# Version 
-1.0.0
