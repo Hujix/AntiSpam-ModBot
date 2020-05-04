@@ -8,10 +8,12 @@ You will need to have only some apps downloaded.
 
 **Download node.js**
 Download Link: https://nodejs.org/en/download/
+
 Download tutorial: https://phoenixnap.com/kb/install-node-js-npm-on-windows
 
 **Download a code editor**
 I will prefer using visual code editor.
+
 https://code.visualstudio.com/Download
 
 # Installation package.
@@ -19,11 +21,17 @@ https://github.com/Scraayp/AntiSpam-ModBot/releases
 Install the package in here. (The latest one)
 
 Right click on the folder there you see a option open with Code.
+
 Open the folder with code. 
+
 Then click **ctrl + shift + \`** (https://imgur.com/a/drzX2ha go to terminal and open new terminal)
+
 That will open up a treminal/console.
+
 Write in the terminal/console. **npm install**
+
 That will install every needed package
+
 Then fill out config.json.
 
 prefix = "!" // by deafault, can be change.
