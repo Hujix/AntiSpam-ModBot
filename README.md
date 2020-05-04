@@ -18,7 +18,7 @@ https://code.visualstudio.com/Download
 https://github.com/Scraayp/AntiSpam-ModBot/releases
 Install the package in here. (The latest one)
 
-Right click on the folder there you see a option open with Code. 
+Right click on the folder there you see a option open with Code.
 Open the folder with code. 
 Then click **ctrl + shift + \`** (https://imgur.com/a/drzX2ha go to terminal and open new terminal)
 That will open up a treminal/console.
